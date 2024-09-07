@@ -8,6 +8,8 @@ git clone https://github.com/Emmanuel-Omopariola/Key-logger.git
 
 Run the script:
 python keylogger.py
+
+
 Disclaimer
 I'm not responsible for any misuse. Use this tool only for ethical and legal purposes.
 
