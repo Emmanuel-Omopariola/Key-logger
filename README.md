@@ -11,5 +11,5 @@ python keylogger.py
 Disclaimer
 I'm not responsible for any misuse. Use this tool only for ethical and legal purposes.
 
-@emmanuelomopriola
+@emmanuelomopariola
 
