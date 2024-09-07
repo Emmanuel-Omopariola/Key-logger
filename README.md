@@ -10,7 +10,8 @@ Run the script:
 python keylogger.py
 
 
-Disclaimer
+Disclaimer:
+
 I'm not responsible for any misuse. Use this tool only for ethical and legal purposes.
 
 @emmanuelomopariola
